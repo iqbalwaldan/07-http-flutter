@@ -1,16 +1,15 @@
-# http_request
+# Http Flutter
 
-A new Flutter project.
+Nama : Moh. Iqbal Waldan
 
-## Getting Started
+Kelas : MI-2F
 
-This project is a starting point for a Flutter application.
+NIM : 203171039
 
-A few resources to get you started if this is your first Flutter project:
+## Halaman List Movie
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Popular Movies](https://user-images.githubusercontent.com/69692712/165666841-f6ff70ff-a1f1-4605-a449-1ff5d8d67099.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Halaman Detail Movie
+
+![Detail Movies](https://user-images.githubusercontent.com/69692712/165666845-5b109398-b60a-499e-b85d-d48ae5f285f3.png)
